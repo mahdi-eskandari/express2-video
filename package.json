@@ -1,0 +1,27 @@
+{
+  "name": "express2-video",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahdi-eskandari/express2-video.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mahdi-eskandari/express2-video/issues"
+  },
+  "homepage": "https://github.com/mahdi-eskandari/express2-video#readme",
+  "devDependencies": {
+    "express": "^5.1.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.5.0"
+  }
+}
